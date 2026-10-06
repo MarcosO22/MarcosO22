@@ -25,8 +25,8 @@ Gosto de usar dados e IA para resolver problema de verdade: mais do que escrever
 ---
 
 ## 📂 Projetos
-- 🍽️ **[Sistema de Pedidos e Cardápio Digital – Quiosque Sertão Bão](https://sertaobao.netlify.app)** *(em produção)*
-Aplicação web mobile-first usada todo dia por um quiosque de comida: cardápio com adicionais, sacola, checkout e pedido enviado pelo WhatsApp. Banco PostgreSQL no Supabase com RLS, painel administrativo e mini PDV com pedidos em tempo real.
+- 🍽️ **[Sistema de Pedidos e Cardápio Digital – Quiosque Sertão Bão](https://sertaobao.netlify.app)** *(em produção)* · [código](https://github.com/MarcosO22/sertao-bao)
+Aplicação web mobile-first usada todo dia por um quiosque de comida: cardápio com adicionais, sacola, checkout e pedido enviado pelo WhatsApp. Banco PostgreSQL no Supabase com RLS, painel administrativo e mini PDV com pedidos em tempo real. Desenvolvido orquestrando IA: defini requisitos e arquitetura, revisei e testei o código gerado e cuido da manutenção.
 - 🤖 **Triagem de Vagas com IA + Bot no Telegram**
 Agente de IA que busca e filtra vagas com base no meu currículo e manda as melhores pelo Telegram toda manhã.
 - 📊 **[Dashboard de Vendas e Metas (Power BI)](https://github.com/MarcosO22/dashboard-vendas-powerbi)**
